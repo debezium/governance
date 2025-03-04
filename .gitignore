@@ -1,0 +1,23 @@
+# Extensions
+*.diff
+*.err
+*.log
+*.swp
+
+# OS or Editor
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+*.iml
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+
+# Folders
+.idea

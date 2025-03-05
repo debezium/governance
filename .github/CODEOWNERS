@@ -1,0 +1,5 @@
+# These owners will be the default owners for everything in the repository.
+# Unless a later match takes precedence, these folks get the review request
+# when someone opens a pull request.
+
+*       @debezium/debezium-sc

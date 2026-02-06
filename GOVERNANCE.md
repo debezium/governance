@@ -4,7 +4,7 @@ This document defines the project governance for the [Debezium](https://debezium
 
 ## Overview
 
-Anyone can contribute to Debezium by following the [contribution workflow](https://github.com/debezium/debezium/CONTRIBUTE.md) or discussing features and improvements on GitHub issues.
+Anyone can contribute to Debezium by following the [contribution workflow](https://github.com/debezium/debezium/blob/main/CONTRIBUTING.md) or discussing features and improvements on GitHub issues.
 To become a committer in the Debezium project, start by making approved pull requests.
 After sufficient trust is built working on Debezium, any current Debezium committer can nominate you to the steering committee for a committer role.
 
@@ -168,4 +168,4 @@ Usage of these trademarks must adhere to our [Trademark Policy](https://www.comm
 ## Contributing
 
 We welcome all forms of contributors, from code improvements to documentation and design.
-For details on how to contribute and the process your contributions will follow, please read our [Contributing Guidelines](https://github.com/debezium/debezium/CONTRIBUTE.md).
+For details on how to contribute and the process your contributions will follow, please read our [Contributing Guidelines](https://github.com/debezium/debezium/blob/main/CONTRIBUTING.md).

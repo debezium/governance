@@ -158,7 +158,7 @@ The vote should be open for at least **3** days to allow everyone to participate
 ## Code of Conduct
 
 All participants in the project are expected to adhere to the project's [Code of Conduct](./CODE_OF_CONDUCT.md).
-Pleasure ensure you are familiar with its guidelines and expectations, as it's essential for maintaining a positive and collaborative environment.
+Please ensure you are familiar with its guidelines and expectations, as it's essential for maintaining a positive and collaborative environment.
 
 ## Trademark Policy
 
